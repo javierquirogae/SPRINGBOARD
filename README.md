@@ -1,2 +1,2 @@
 # SPRINGBOARD
-This is the repository I use to share my completed SPRINGBOARD aggignments
+This is the repository I use to share my completed SPRINGBOARD assignments
